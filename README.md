@@ -38,10 +38,12 @@
   <img src="https://img.shields.io/badge/LaTeX-00A0A0?style=flat&logo=latex" alt="LaTeX"> -->
 </p>
 
+<!--
 <h2 align="left">📊 GitHub Stats</h2>
 <p align="left">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=davi-ssantos&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Davi's GitHub Stats" />
 </p>
+-->
 
 <h2 align="left">📫 Contact</h2>
 <p align="left">
