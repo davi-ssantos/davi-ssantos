@@ -19,7 +19,10 @@
 
 <h2 align="left">🛠️ Technologies</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,postgres,java,html,css" alt="Python, PyTorch, c" /> <br/>
+  <img src="https://skillicons.dev/icons?i=c,git,github,obsidian,markdown,latex" alt="java,JavaScript, React, PostgreSQL, Git, GitHub and C" />
+  
+  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" alt="Pandas">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn" alt="scikit-learn">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch" alt="PyTorch">
@@ -32,7 +35,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub">
   <img src="https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian" alt="Obsidian">
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown" alt="Markdown">
-  <img src="https://img.shields.io/badge/LaTeX-00A0A0?style=flat&logo=latex" alt="LaTeX">
+  <img src="https://img.shields.io/badge/LaTeX-00A0A0?style=flat&logo=latex" alt="LaTeX"> -->
+</p>
+
+<h2 align="left">📊 GitHub Stats</h2>
+<p align="left">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=davi-ssantos&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Davi's GitHub Stats" />
 </p>
 
 <h2 align="left">📫 Contact</h2>
