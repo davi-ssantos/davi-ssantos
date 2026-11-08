@@ -13,7 +13,8 @@
 <h2 align="left">🔬 My Experience</h2>
 <p align="left">
   <samp>
-    I've worked on undergraduate research in machine learning, analyzing industrial time series, and academic projects involving data analysis, forecasting, image classification, and software development.
+    I've worked on <a href="https://github.com/GPAM-ai/manufacturing-alarms-prediction">undergraduate research</a> in machine learning, analyzing industrial time series, and academic projects involving data analysis, forecasting and image classification. <br/>
+    Currently devoloping an <a href="https://github.com/ZVSCR/ConservIA">application</a> to manage groceries pantry and personal purchase history with a 7-people team stock in SWE graduation discipline.
   </samp>
 </p>
 
